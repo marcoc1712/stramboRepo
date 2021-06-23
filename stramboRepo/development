@@ -1,2 +1,4 @@
-latest=1.1.0
-firstUpgradeable=0.0.0
+{
+	"latest": "1.1.0",
+	"firstUpgradeable: "0.0.0"
+}
