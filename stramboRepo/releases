@@ -8,7 +8,7 @@
 		"firstUpgradeable":"0.0.0"
 	},
 	"production":{
-		"latest" :"1.1.3",
+		"latest" :"1.1.5",
 		"firstUpgradeable":"0.0.0"
 	}
 }
