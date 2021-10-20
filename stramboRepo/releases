@@ -4,7 +4,7 @@
 		"firstUpgradeable":"0.0.0"
 	},
 	"test":{
-		"latest" :"1.1.8",
+		"latest" :"1.1.9",
 		"firstUpgradeable":"0.0.0"
 	},
 	"production":{
