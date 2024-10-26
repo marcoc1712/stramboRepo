@@ -1,10 +1,10 @@
 {
 	"development":{
-		"latest" :"2.2.0",
+		"latest" :"2.2.1",
 		"firstUpgradeable":"0.0.0"
 	},
 	"test":{
-		"latest" :"2.1.1",
+		"latest" :"2.2.0",
 		"firstUpgradeable":"0.0.0"
 	},
 	"production":{
