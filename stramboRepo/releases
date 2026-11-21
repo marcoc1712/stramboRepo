@@ -1,14 +1,14 @@
 {
 	"development":{
-		"latest" :"2.3.0",
+		"latest" :"2.3.2",
 		"firstUpgradeable":"0.0.0"
 	},
 	"test":{
-		"latest" :"2.3.0",
+		"latest" :"2.3.2",
 		"firstUpgradeable":"0.0.0"
 	},
 	"production":{
-		"latest" :"2.0.3",
+		"latest" :"2.3.2",
 		"firstUpgradeable":"0.0.0"
 	}
 }
